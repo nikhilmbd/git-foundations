@@ -1,2 +1,3 @@
 Git basics learning started.
 Understanding repository workflow.
+Learning about branching and feature-based development.
